@@ -73,5 +73,7 @@ if  __name__ == '__main__':
         titulo = "Prueba",
         numero_pag=5,
         categoria=accion,
-        autores="cc"
-    )
+        autores="cc",
+        )
+
+    print(p)
